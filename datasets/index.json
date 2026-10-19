@@ -1,0 +1,41 @@
+{
+ "license": "CC BY 4.0",
+ "datasets": [
+  {
+   "id": "twostroke-motorcycles",
+   "title": "經典二行程機車規格",
+   "source": "https://twostroke.penguindriver.com",
+   "rows": 42,
+   "json": "datasets/twostroke-motorcycles.json",
+   "csv": "datasets/twostroke-motorcycles.csv",
+   "updated": "2026-10-19T12:56:05.984Z"
+  },
+  {
+   "id": "ai-model-deprecations",
+   "title": "AI 模型下架與替代日程",
+   "source": "https://models.penguindriver.com",
+   "rows": 147,
+   "json": "datasets/ai-model-deprecations.json",
+   "csv": "datasets/ai-model-deprecations.csv",
+   "updated": "2026-10-19T12:56:06.455Z"
+  },
+  {
+   "id": "taiwan-holidays-2027",
+   "title": "2027 台灣國定假日與連假",
+   "source": "https://travel.penguindriver.com",
+   "rows": 24,
+   "json": "datasets/taiwan-holidays-2027.json",
+   "csv": "datasets/taiwan-holidays-2027.csv",
+   "updated": "2026-10-19T12:56:07.137Z"
+  },
+  {
+   "id": "ai-glossary-zh-tw",
+   "title": "AI 與科技名詞白話解釋（繁體中文）",
+   "source": "https://glossary.penguindriver.com",
+   "rows": 45,
+   "json": "datasets/ai-glossary-zh-tw.json",
+   "csv": "datasets/ai-glossary-zh-tw.csv",
+   "updated": "2026-10-19T12:56:07.625Z"
+  }
+ ]
+}

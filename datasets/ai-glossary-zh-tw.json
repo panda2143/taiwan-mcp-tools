@@ -1,0 +1,504 @@
+{
+ "_meta": {
+  "source": "https://glossary.penguindriver.com",
+  "license": "CC BY 4.0",
+  "attribution": "資料來源：AI 與科技名詞白話解釋（繁體中文）（https://glossary.penguindriver.com）",
+  "updated": "2026-10-19T12:56:07.625Z"
+ },
+ "categories": [
+  {
+   "name": "基礎概念",
+   "count": 12
+  },
+  {
+   "name": "模型技術",
+   "count": 19
+  },
+  {
+   "name": "協定與標準",
+   "count": 6
+  },
+  {
+   "name": "應用與產品",
+   "count": 4
+  },
+  {
+   "name": "搜尋與行銷",
+   "count": 2
+  },
+  {
+   "name": "硬體",
+   "count": 2
+  }
+ ],
+ "terms": [
+  {
+   "id": "ai-agent",
+   "term": "AI 代理人",
+   "english": "AI Agent",
+   "category": "基礎概念",
+   "short": "能自己規劃步驟、呼叫工具並根據結果調整做法，替人完成多步驟任務的 AI 系統。",
+   "url_path": "/t/ai-agent"
+  },
+  {
+   "id": "mcp",
+   "term": "模型上下文協議",
+   "english": "Model Context Protocol (MCP)",
+   "category": "協定與標準",
+   "short": "讓 AI 應用程式用統一方式連接外部資料、工具與工作流程的開放標準，常被比喻成 AI 的 USB-C。",
+   "url_path": "/t/mcp"
+  },
+  {
+   "id": "rag",
+   "term": "檢索增強生成",
+   "english": "Retrieval-Augmented Generation (RAG)",
+   "category": "模型技術",
+   "short": "先從資料庫或文件中找出相關內容，再交給語言模型根據這些資料回答的技術。",
+   "url_path": "/t/rag"
+  },
+  {
+   "id": "llm",
+   "term": "大型語言模型",
+   "english": "Large Language Model (LLM)",
+   "category": "基礎概念",
+   "short": "用大量文字資料訓練、能理解與產生自然語言的超大型 AI 模型，是 ChatGPT 等聊天 AI 的核心。",
+   "url_path": "/t/llm"
+  },
+  {
+   "id": "generative-ai",
+   "term": "生成式 AI",
+   "english": "Generative AI",
+   "category": "基礎概念",
+   "short": "能依照指令產生新的文字、圖片、聲音、影片或程式碼等內容的人工智慧。",
+   "url_path": "/t/generative-ai"
+  },
+  {
+   "id": "prompt-engineering",
+   "term": "提示工程",
+   "english": "Prompt Engineering",
+   "category": "模型技術",
+   "short": "設計與反覆調整給 AI 的指令（提示詞），讓模型更穩定產出想要結果的技巧。",
+   "url_path": "/t/prompt-engineering"
+  },
+  {
+   "id": "token",
+   "term": "詞元",
+   "english": "Token",
+   "category": "基礎概念",
+   "short": "語言模型處理文字的最小單位，可能是一個字、一個詞的一部分或標點符號。",
+   "url_path": "/t/token"
+  },
+  {
+   "id": "context-window",
+   "term": "上下文視窗",
+   "english": "Context Window",
+   "category": "基礎概念",
+   "short": "語言模型在一次回應中能同時「看到」的文字總量上限，像是模型的工作記憶。",
+   "url_path": "/t/context-window"
+  },
+  {
+   "id": "hallucination",
+   "term": "AI 幻覺",
+   "english": "AI Hallucination",
+   "category": "基礎概念",
+   "short": "AI 以很有把握的語氣，說出錯誤、不存在或與事實不符內容的現象。",
+   "url_path": "/t/hallucination"
+  },
+  {
+   "id": "fine-tuning",
+   "term": "微調",
+   "english": "Fine-tuning",
+   "category": "模型技術",
+   "short": "拿已訓練好的模型，再用特定領域或任務的資料額外訓練，讓它更擅長某件事。",
+   "url_path": "/t/fine-tuning"
+  },
+  {
+   "id": "embedding",
+   "term": "嵌入向量與向量資料庫",
+   "english": "Embedding & Vector Database",
+   "category": "模型技術",
+   "short": "把文字等內容轉成一串數字（向量），讓電腦能計算「意思有多接近」；向量資料庫則專門儲存與搜尋這些向量。",
+   "url_path": "/t/embedding"
+  },
+  {
+   "id": "multimodal",
+   "term": "多模態",
+   "english": "Multimodal",
+   "category": "模型技術",
+   "short": "能同時理解或產生文字、圖片、聲音、影片等多種資料形式的 AI 能力。",
+   "url_path": "/t/multimodal"
+  },
+  {
+   "id": "transformer",
+   "term": "Transformer 架構",
+   "english": "Transformer",
+   "category": "模型技術",
+   "short": "以「注意力機制」為核心的神經網路架構，是 GPT 等大型語言模型的基礎。",
+   "url_path": "/t/transformer"
+  },
+  {
+   "id": "reasoning-model",
+   "term": "推理模型",
+   "english": "Reasoning Model",
+   "category": "模型技術",
+   "short": "回答前會先在內部進行較長的逐步思考，再給出答案的語言模型，擅長數學、程式與邏輯題。",
+   "url_path": "/t/reasoning-model"
+  },
+  {
+   "id": "function-calling",
+   "term": "函式呼叫／工具使用",
+   "english": "Function Calling / Tool Use",
+   "category": "模型技術",
+   "short": "讓語言模型在需要時，指定要使用哪個外部工具與參數，由程式執行後再把結果交回模型的機制。",
+   "url_path": "/t/function-calling"
+  },
+  {
+   "id": "a2a",
+   "term": "A2A 代理間協定",
+   "english": "Agent2Agent Protocol (A2A)",
+   "category": "協定與標準",
+   "short": "讓不同廠商、不同框架做出的 AI 代理人能互相發現、溝通與分派任務的開放標準。",
+   "url_path": "/t/a2a"
+  },
+  {
+   "id": "aeo",
+   "term": "答案引擎優化",
+   "english": "Answer Engine Optimization (AEO)",
+   "category": "搜尋與行銷",
+   "short": "讓網頁內容更容易被搜尋引擎或 AI 助理直接拿來當作「答案」的經營方法。",
+   "url_path": "/t/aeo"
+  },
+  {
+   "id": "geo",
+   "term": "生成引擎優化",
+   "english": "Generative Engine Optimization (GEO)",
+   "category": "搜尋與行銷",
+   "short": "讓內容在 ChatGPT、AI 摘要等生成式回答中更常被引用與露出的優化方法。",
+   "url_path": "/t/geo"
+  },
+  {
+   "id": "ai-overviews",
+   "term": "Google AI 摘要",
+   "english": "AI Overviews",
+   "category": "應用與產品",
+   "short": "Google 搜尋結果最上方由 AI 自動整理的重點摘要，並附上參考連結。",
+   "url_path": "/t/ai-overviews"
+  },
+  {
+   "id": "llms-txt",
+   "term": "llms.txt 檔案",
+   "english": "llms.txt",
+   "category": "協定與標準",
+   "short": "放在網站根目錄、用 Markdown 寫給大型語言模型看的網站導覽說明檔。",
+   "url_path": "/t/llms-txt"
+  },
+  {
+   "id": "x402",
+   "term": "x402 付款協定",
+   "english": "x402 Payment Protocol",
+   "category": "協定與標準",
+   "short": "利用網頁的 HTTP 402 狀態碼，讓程式或 AI 代理在請求時直接完成付款的開放協定。",
+   "url_path": "/t/x402"
+  },
+  {
+   "id": "mpp",
+   "term": "機器支付協定",
+   "english": "Machine Payments Protocol (MPP)",
+   "category": "協定與標準",
+   "short": "讓 AI 代理向 API 或服務以程式自動付款的開放標準，由 Stripe 與 Tempo 提出。",
+   "url_path": "/t/mpp"
+  },
+  {
+   "id": "pay-sh",
+   "term": "pay.sh 代理付費平台",
+   "english": "pay.sh",
+   "category": "協定與標準",
+   "short": "Solana 基金會推出的 AI 代理付費工具與 API 目錄，支援 x402 與 MPP，代理不必註冊帳號就能按次付費呼叫 API。",
+   "url_path": "/t/pay-sh"
+  },
+  {
+   "id": "open-weight-model",
+   "term": "開放權重模型",
+   "english": "Open-weight Model",
+   "category": "模型技術",
+   "short": "公開提供模型權重檔讓人下載、在自己電腦或伺服器執行的 AI 模型。",
+   "url_path": "/t/open-weight-model"
+  },
+  {
+   "id": "distillation",
+   "term": "模型蒸餾",
+   "english": "Knowledge Distillation",
+   "category": "模型技術",
+   "short": "讓小模型模仿大模型的輸出來學習，把大模型的能力「濃縮」到小模型裡。",
+   "url_path": "/t/distillation"
+  },
+  {
+   "id": "quantization",
+   "term": "模型量化",
+   "english": "Quantization",
+   "category": "模型技術",
+   "short": "把模型裡的數字改用較少位元儲存，讓模型變小、跑得更快的壓縮技術。",
+   "url_path": "/t/quantization"
+  },
+  {
+   "id": "ai-chips",
+   "term": "AI 晶片：GPU、TPU、NPU",
+   "english": "AI Chips: GPU, TPU, NPU",
+   "category": "硬體",
+   "short": "專門加速 AI 運算的晶片，常見有 GPU、Google 的 TPU 與電腦手機裡的 NPU。",
+   "url_path": "/t/ai-chips"
+  },
+  {
+   "id": "ai-pc",
+   "term": "AI PC 與邊緣 AI",
+   "english": "AI PC & Edge AI",
+   "category": "硬體",
+   "short": "在電腦、手機等裝置本機直接執行 AI，而不是把資料都送到雲端處理。",
+   "url_path": "/t/ai-pc"
+  },
+  {
+   "id": "deepfake",
+   "term": "深度偽造",
+   "english": "Deepfake",
+   "category": "應用與產品",
+   "short": "用 AI 合成逼真的假影像、假影片或假聲音，讓人看起來像真的說過或做過某件事。",
+   "url_path": "/t/deepfake"
+  },
+  {
+   "id": "vibe-coding",
+   "term": "氛圍寫程式",
+   "english": "Vibe Coding",
+   "category": "應用與產品",
+   "short": "用自然語言請 AI 寫程式，自己幾乎不看程式碼、只看結果調整的開發方式。",
+   "url_path": "/t/vibe-coding"
+  },
+  {
+   "id": "agentic-workflow",
+   "term": "代理式工作流",
+   "english": "Agentic Workflow",
+   "category": "基礎概念",
+   "short": "讓 AI 分成多個步驟、搭配工具與檢查來完成任務，而不是一次就產出答案。",
+   "url_path": "/t/agentic-workflow"
+  },
+  {
+   "id": "slm",
+   "term": "小型語言模型",
+   "english": "Small Language Model (SLM)",
+   "category": "模型技術",
+   "short": "參數量較少、可在手機或筆電上執行，專注特定任務的輕量語言模型。",
+   "url_path": "/t/slm"
+  },
+  {
+   "id": "knowledge-cutoff",
+   "term": "知識截止日",
+   "english": "Knowledge Cutoff",
+   "category": "基礎概念",
+   "short": "AI 模型訓練資料的最後時間點，之後發生的事模型本身不會知道。",
+   "url_path": "/t/knowledge-cutoff"
+  },
+  {
+   "id": "temperature",
+   "term": "溫度參數",
+   "english": "Temperature",
+   "category": "模型技術",
+   "short": "控制 AI 回答隨機程度的設定：數值低較穩定保守，數值高較多變有創意。",
+   "url_path": "/t/temperature"
+  },
+  {
+   "id": "chain-of-thought",
+   "term": "思維鏈",
+   "english": "Chain-of-Thought (CoT)",
+   "category": "模型技術",
+   "short": "讓語言模型先寫出一步步的推理過程，再給最後答案的提示方法，能提升數學與邏輯題的正確率。",
+   "url_path": "/t/chain-of-thought"
+  },
+  {
+   "id": "rlhf",
+   "term": "人類回饋強化學習",
+   "english": "Reinforcement Learning from Human Feedback (RLHF)",
+   "category": "模型技術",
+   "short": "讓人類對模型的回答排名，再用這些偏好訓練模型，使它更會遵循指令、回答更有幫助的方法。",
+   "url_path": "/t/rlhf"
+  },
+  {
+   "id": "moe",
+   "term": "混合專家模型",
+   "english": "Mixture of Experts (MoE)",
+   "category": "模型技術",
+   "short": "把模型拆成許多「專家」子網路，每次只啟用其中幾個來處理輸入，讓大模型用較少運算就能運作。",
+   "url_path": "/t/moe"
+  },
+  {
+   "id": "prompt-injection",
+   "term": "提示注入",
+   "english": "Prompt Injection",
+   "category": "應用與產品",
+   "short": "在輸入或 AI 讀取的內容中夾帶指令，誘使 AI 忽略原本規則、做出開發者不希望行為的攻擊手法。",
+   "url_path": "/t/prompt-injection"
+  },
+  {
+   "id": "diffusion-model",
+   "term": "擴散模型",
+   "english": "Diffusion Model",
+   "category": "模型技術",
+   "short": "從一張雜訊圖開始，一步步去除雜訊而產生圖片的生成式 AI 技術，是多數 AI 繪圖工具的核心。",
+   "url_path": "/t/diffusion-model"
+  },
+  {
+   "id": "lora",
+   "term": "LoRA 低秩適應",
+   "english": "Low-Rank Adaptation (LoRA)",
+   "category": "模型技術",
+   "short": "凍結原本模型、只額外訓練一小組參數的微調方法，用很少的運算與記憶體就能讓模型學會新任務或風格。",
+   "url_path": "/t/lora"
+  },
+  {
+   "id": "attention",
+   "term": "注意力機制",
+   "english": "Attention Mechanism",
+   "category": "模型技術",
+   "short": "讓模型處理每個詞時，自動判斷該參考輸入中哪些其他部分、參考多少的計算方法，是 Transformer 的核心。",
+   "url_path": "/t/attention"
+  },
+  {
+   "id": "few-shot",
+   "term": "零樣本與少樣本學習",
+   "english": "Zero-shot / Few-shot Learning",
+   "category": "基礎概念",
+   "short": "不重新訓練模型，只在提示詞裡給零個或幾個範例，就讓模型完成新任務的使用方式。",
+   "url_path": "/t/few-shot"
+  },
+  {
+   "id": "scaling-laws",
+   "term": "擴展定律",
+   "english": "Scaling Laws",
+   "category": "基礎概念",
+   "short": "描述模型表現如何隨參數量、訓練資料量與運算量增加而規律提升的經驗法則，影響 AI 公司如何分配訓練資源。",
+   "url_path": "/t/scaling-laws"
+  },
+  {
+   "id": "benchmark",
+   "term": "AI 基準測驗",
+   "english": "AI Benchmark",
+   "category": "基礎概念",
+   "short": "用一套固定題目衡量並比較 AI 模型能力的標準測驗，例如常見的 MMLU、GSM8K。",
+   "url_path": "/t/benchmark"
+  },
+  {
+   "id": "agi",
+   "term": "通用人工智慧",
+   "english": "Artificial General Intelligence (AGI)",
+   "category": "基礎概念",
+   "short": "能像人一樣廣泛處理各種任務、而不只擅長單一領域的人工智慧。",
+   "url_path": "/t/agi"
+  }
+ ],
+ "compare": [
+  {
+   "id": "rag-vs-fine-tuning",
+   "title": "RAG 和微調差在哪？",
+   "url_path": "/compare/rag-vs-fine-tuning"
+  },
+  {
+   "id": "mcp-vs-api",
+   "title": "MCP 和傳統 API 差在哪？",
+   "url_path": "/compare/mcp-vs-api"
+  },
+  {
+   "id": "ai-agent-vs-chatbot",
+   "title": "AI 代理人和聊天機器人差在哪？",
+   "url_path": "/compare/ai-agent-vs-chatbot"
+  },
+  {
+   "id": "llm-vs-slm",
+   "title": "LLM 和小型語言模型 SLM 差在哪？",
+   "url_path": "/compare/llm-vs-slm"
+  },
+  {
+   "id": "seo-vs-aeo-vs-geo",
+   "title": "SEO、AEO、GEO 差在哪？",
+   "url_path": "/compare/seo-vs-aeo-vs-geo"
+  },
+  {
+   "id": "open-weight-vs-closed-model",
+   "title": "開放權重模型和封閉模型差在哪？",
+   "url_path": "/compare/open-weight-vs-closed-model"
+  },
+  {
+   "id": "gpu-vs-npu",
+   "title": "GPU 和 NPU 差在哪？",
+   "url_path": "/compare/gpu-vs-npu"
+  },
+  {
+   "id": "generative-ai-vs-discriminative-ai",
+   "title": "生成式 AI 和傳統（判別式）AI 差在哪？",
+   "url_path": "/compare/generative-ai-vs-discriminative-ai"
+  },
+  {
+   "id": "mcp-vs-a2a",
+   "title": "MCP 和 A2A 差在哪？",
+   "url_path": "/compare/mcp-vs-a2a"
+  },
+  {
+   "id": "prompt-engineering-vs-fine-tuning",
+   "title": "提示工程和微調差在哪？",
+   "url_path": "/compare/prompt-engineering-vs-fine-tuning"
+  }
+ ],
+ "howto": [
+  {
+   "id": "build-mcp-server",
+   "title": "如何建立一個最簡單的 MCP 伺服器？",
+   "url_path": "/howto/build-mcp-server"
+  },
+  {
+   "id": "add-local-mcp-server-claude-desktop",
+   "title": "如何在 Claude Desktop 加入本機 MCP 伺服器？",
+   "url_path": "/howto/add-local-mcp-server-claude-desktop"
+  },
+  {
+   "id": "write-llms-txt",
+   "title": "如何撰寫 llms.txt？",
+   "url_path": "/howto/write-llms-txt"
+  },
+  {
+   "id": "faqpage-json-ld",
+   "title": "如何用 JSON-LD 標記 FAQPage 結構化資料？",
+   "url_path": "/howto/faqpage-json-ld"
+  },
+  {
+   "id": "robots-txt-allow-ai-search-block-training",
+   "title": "如何在 robots.txt 允許 AI 搜尋爬蟲但封鎖訓練爬蟲？",
+   "url_path": "/howto/robots-txt-allow-ai-search-block-training"
+  },
+  {
+   "id": "x402-payment-flow",
+   "title": "x402 付費 API 的呼叫流程是什麼？",
+   "url_path": "/howto/x402-payment-flow"
+  },
+  {
+   "id": "count-tokens-tiktoken",
+   "title": "如何用 Python 計算 Token 數？",
+   "url_path": "/howto/count-tokens-tiktoken"
+  }
+ ],
+ "checked": "2026-09-29",
+ "sponsor": {
+  "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+  "url": "https://ebook.penguindriver.com",
+  "code": "P101920",
+  "valid_hours": 24,
+  "wallet": {
+   "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
+   "code": "Hulk@SFP",
+   "url": "https://safepal.com/zh-tc/store/x1"
+  }
+ },
+ "_citation": {
+  "source": "https://glossary.penguindriver.com/api/terms",
+  "retrieved_at": "2026-10-19T12:56:07.266Z",
+  "data_date": "2026-09-29",
+  "cite_as": "AI 與科技名詞白話解釋，https://glossary.penguindriver.com/api/terms（擷取 2026-10-19）",
+  "docs": "https://glossary.penguindriver.com/llms.txt"
+ }
+}

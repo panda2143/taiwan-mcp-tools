@@ -1,0 +1,46 @@
+﻿id,term,english,category,short,url_path
+ai-agent,AI 代理人,AI Agent,基礎概念,能自己規劃步驟、呼叫工具並根據結果調整做法，替人完成多步驟任務的 AI 系統。,/t/ai-agent
+mcp,模型上下文協議,Model Context Protocol (MCP),協定與標準,讓 AI 應用程式用統一方式連接外部資料、工具與工作流程的開放標準，常被比喻成 AI 的 USB-C。,/t/mcp
+rag,檢索增強生成,Retrieval-Augmented Generation (RAG),模型技術,先從資料庫或文件中找出相關內容，再交給語言模型根據這些資料回答的技術。,/t/rag
+llm,大型語言模型,Large Language Model (LLM),基礎概念,用大量文字資料訓練、能理解與產生自然語言的超大型 AI 模型，是 ChatGPT 等聊天 AI 的核心。,/t/llm
+generative-ai,生成式 AI,Generative AI,基礎概念,能依照指令產生新的文字、圖片、聲音、影片或程式碼等內容的人工智慧。,/t/generative-ai
+prompt-engineering,提示工程,Prompt Engineering,模型技術,設計與反覆調整給 AI 的指令（提示詞），讓模型更穩定產出想要結果的技巧。,/t/prompt-engineering
+token,詞元,Token,基礎概念,語言模型處理文字的最小單位，可能是一個字、一個詞的一部分或標點符號。,/t/token
+context-window,上下文視窗,Context Window,基礎概念,語言模型在一次回應中能同時「看到」的文字總量上限，像是模型的工作記憶。,/t/context-window
+hallucination,AI 幻覺,AI Hallucination,基礎概念,AI 以很有把握的語氣，說出錯誤、不存在或與事實不符內容的現象。,/t/hallucination
+fine-tuning,微調,Fine-tuning,模型技術,拿已訓練好的模型，再用特定領域或任務的資料額外訓練，讓它更擅長某件事。,/t/fine-tuning
+embedding,嵌入向量與向量資料庫,Embedding & Vector Database,模型技術,把文字等內容轉成一串數字（向量），讓電腦能計算「意思有多接近」；向量資料庫則專門儲存與搜尋這些向量。,/t/embedding
+multimodal,多模態,Multimodal,模型技術,能同時理解或產生文字、圖片、聲音、影片等多種資料形式的 AI 能力。,/t/multimodal
+transformer,Transformer 架構,Transformer,模型技術,以「注意力機制」為核心的神經網路架構，是 GPT 等大型語言模型的基礎。,/t/transformer
+reasoning-model,推理模型,Reasoning Model,模型技術,回答前會先在內部進行較長的逐步思考，再給出答案的語言模型，擅長數學、程式與邏輯題。,/t/reasoning-model
+function-calling,函式呼叫／工具使用,Function Calling / Tool Use,模型技術,讓語言模型在需要時，指定要使用哪個外部工具與參數，由程式執行後再把結果交回模型的機制。,/t/function-calling
+a2a,A2A 代理間協定,Agent2Agent Protocol (A2A),協定與標準,讓不同廠商、不同框架做出的 AI 代理人能互相發現、溝通與分派任務的開放標準。,/t/a2a
+aeo,答案引擎優化,Answer Engine Optimization (AEO),搜尋與行銷,讓網頁內容更容易被搜尋引擎或 AI 助理直接拿來當作「答案」的經營方法。,/t/aeo
+geo,生成引擎優化,Generative Engine Optimization (GEO),搜尋與行銷,讓內容在 ChatGPT、AI 摘要等生成式回答中更常被引用與露出的優化方法。,/t/geo
+ai-overviews,Google AI 摘要,AI Overviews,應用與產品,Google 搜尋結果最上方由 AI 自動整理的重點摘要，並附上參考連結。,/t/ai-overviews
+llms-txt,llms.txt 檔案,llms.txt,協定與標準,放在網站根目錄、用 Markdown 寫給大型語言模型看的網站導覽說明檔。,/t/llms-txt
+x402,x402 付款協定,x402 Payment Protocol,協定與標準,利用網頁的 HTTP 402 狀態碼，讓程式或 AI 代理在請求時直接完成付款的開放協定。,/t/x402
+mpp,機器支付協定,Machine Payments Protocol (MPP),協定與標準,讓 AI 代理向 API 或服務以程式自動付款的開放標準，由 Stripe 與 Tempo 提出。,/t/mpp
+pay-sh,pay.sh 代理付費平台,pay.sh,協定與標準,Solana 基金會推出的 AI 代理付費工具與 API 目錄，支援 x402 與 MPP，代理不必註冊帳號就能按次付費呼叫 API。,/t/pay-sh
+open-weight-model,開放權重模型,Open-weight Model,模型技術,公開提供模型權重檔讓人下載、在自己電腦或伺服器執行的 AI 模型。,/t/open-weight-model
+distillation,模型蒸餾,Knowledge Distillation,模型技術,讓小模型模仿大模型的輸出來學習，把大模型的能力「濃縮」到小模型裡。,/t/distillation
+quantization,模型量化,Quantization,模型技術,把模型裡的數字改用較少位元儲存，讓模型變小、跑得更快的壓縮技術。,/t/quantization
+ai-chips,AI 晶片：GPU、TPU、NPU,"AI Chips: GPU, TPU, NPU",硬體,專門加速 AI 運算的晶片，常見有 GPU、Google 的 TPU 與電腦手機裡的 NPU。,/t/ai-chips
+ai-pc,AI PC 與邊緣 AI,AI PC & Edge AI,硬體,在電腦、手機等裝置本機直接執行 AI，而不是把資料都送到雲端處理。,/t/ai-pc
+deepfake,深度偽造,Deepfake,應用與產品,用 AI 合成逼真的假影像、假影片或假聲音，讓人看起來像真的說過或做過某件事。,/t/deepfake
+vibe-coding,氛圍寫程式,Vibe Coding,應用與產品,用自然語言請 AI 寫程式，自己幾乎不看程式碼、只看結果調整的開發方式。,/t/vibe-coding
+agentic-workflow,代理式工作流,Agentic Workflow,基礎概念,讓 AI 分成多個步驟、搭配工具與檢查來完成任務，而不是一次就產出答案。,/t/agentic-workflow
+slm,小型語言模型,Small Language Model (SLM),模型技術,參數量較少、可在手機或筆電上執行，專注特定任務的輕量語言模型。,/t/slm
+knowledge-cutoff,知識截止日,Knowledge Cutoff,基礎概念,AI 模型訓練資料的最後時間點，之後發生的事模型本身不會知道。,/t/knowledge-cutoff
+temperature,溫度參數,Temperature,模型技術,控制 AI 回答隨機程度的設定：數值低較穩定保守，數值高較多變有創意。,/t/temperature
+chain-of-thought,思維鏈,Chain-of-Thought (CoT),模型技術,讓語言模型先寫出一步步的推理過程，再給最後答案的提示方法，能提升數學與邏輯題的正確率。,/t/chain-of-thought
+rlhf,人類回饋強化學習,Reinforcement Learning from Human Feedback (RLHF),模型技術,讓人類對模型的回答排名，再用這些偏好訓練模型，使它更會遵循指令、回答更有幫助的方法。,/t/rlhf
+moe,混合專家模型,Mixture of Experts (MoE),模型技術,把模型拆成許多「專家」子網路，每次只啟用其中幾個來處理輸入，讓大模型用較少運算就能運作。,/t/moe
+prompt-injection,提示注入,Prompt Injection,應用與產品,在輸入或 AI 讀取的內容中夾帶指令，誘使 AI 忽略原本規則、做出開發者不希望行為的攻擊手法。,/t/prompt-injection
+diffusion-model,擴散模型,Diffusion Model,模型技術,從一張雜訊圖開始，一步步去除雜訊而產生圖片的生成式 AI 技術，是多數 AI 繪圖工具的核心。,/t/diffusion-model
+lora,LoRA 低秩適應,Low-Rank Adaptation (LoRA),模型技術,凍結原本模型、只額外訓練一小組參數的微調方法，用很少的運算與記憶體就能讓模型學會新任務或風格。,/t/lora
+attention,注意力機制,Attention Mechanism,模型技術,讓模型處理每個詞時，自動判斷該參考輸入中哪些其他部分、參考多少的計算方法，是 Transformer 的核心。,/t/attention
+few-shot,零樣本與少樣本學習,Zero-shot / Few-shot Learning,基礎概念,不重新訓練模型，只在提示詞裡給零個或幾個範例，就讓模型完成新任務的使用方式。,/t/few-shot
+scaling-laws,擴展定律,Scaling Laws,基礎概念,描述模型表現如何隨參數量、訓練資料量與運算量增加而規律提升的經驗法則，影響 AI 公司如何分配訓練資源。,/t/scaling-laws
+benchmark,AI 基準測驗,AI Benchmark,基礎概念,用一套固定題目衡量並比較 AI 模型能力的標準測驗，例如常見的 MMLU、GSM8K。,/t/benchmark
+agi,通用人工智慧,Artificial General Intelligence (AGI),基礎概念,能像人一樣廣泛處理各種任務、而不只擅長單一領域的人工智慧。,/t/agi
