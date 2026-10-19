@@ -19,6 +19,25 @@
 
 不確定用哪個工具時，先呼叫 `hub_find_tool_for_task`，用中文描述任務即可。
 
+## 開放資料集（可下載，CC BY 4.0）
+
+不想接 MCP、只想要整包資料？直接下載 `datasets/` 裡的 JSON 或 CSV（CSV 可直接用 Excel 開）。每週一自動更新。
+
+| 資料集 | 內容 | 下載 |
+|---|---|---|
+| 經典二行程機車規格 | 車款、廠牌、規格與保養資料 | [JSON](datasets/twostroke-motorcycles.json)・[CSV](datasets/twostroke-motorcycles.csv) |
+| AI 模型下架與替代日程 | 各家 AI 模型停用日期、建議替代模型 | [JSON](datasets/ai-model-deprecations.json)・[CSV](datasets/ai-model-deprecations.csv) |
+| 2027 台灣國定假日與連假 | 放假日、星期、連假區間 | [JSON](datasets/taiwan-holidays-2027.json)・[CSV](datasets/taiwan-holidays-2027.csv) |
+| AI 與科技名詞白話解釋 | 繁體中文 AI 名詞與白話說明 | [JSON](datasets/ai-glossary-zh-tw.json)・[CSV](datasets/ai-glossary-zh-tw.csv) |
+
+清單與更新時間：[`datasets/index.json`](datasets/index.json)
+
+**授權：** [CC BY 4.0](LICENSE-DATA.md)。可商用、可轉載，只要標示資料集名稱與來源網址（每個檔案的 `_meta.source`）。
+
+**發現錯誤或想補資料？** 開一個 [Issue](../../issues) 告訴我們，或寄信到 hot198271@gmail.com。
+
+覺得有用的話，按右上角 ⭐ 讓更多人找到。
+
 ## 怎麼接
 
 **Claude（網頁版／桌面版）**：設定 → Connectors → Add custom connector → 貼上 `https://penguindriver.com/mcp`

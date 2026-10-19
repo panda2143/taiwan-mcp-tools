@@ -1,0 +1,35 @@
+name: 更新開放資料集
+
+on:
+  schedule:
+    - cron: "17 1 * * 1"   # 每週一 09:17（台灣時間）
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/fetch-datasets.mjs", ".github/workflows/datasets.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: datasets
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node tools/fetch-datasets.mjs
+      - name: 有變動才 commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datasets
+          if git diff --cached --quiet; then echo "資料沒有變動"; exit 0; fi
+          git commit -m "資料集自動更新 $(date -u +%F)"
+          git push
