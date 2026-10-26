@@ -3,7 +3,7 @@
   "source": "https://travel.penguindriver.com",
   "license": "CC BY 4.0",
   "attribution": "資料來源：2027 台灣國定假日與連假（https://travel.penguindriver.com）",
-  "updated": "2026-10-19T12:56:07.137Z"
+  "updated": "2026-10-26T06:17:05.080Z"
  },
  "holidays": {
   "holidays": [
@@ -256,9 +256,9 @@
    "url": "https://www.dgpa.gov.tw/information?pid=12983&uid=2"
   },
   "sponsor": {
-   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
    "url": "https://ebook.penguindriver.com",
-   "code": "P101920",
+   "code": "P102614",
    "valid_hours": 24,
    "wallet": {
     "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -268,8 +268,8 @@
   },
   "_citation": {
    "source": "https://travel.penguindriver.com/api/holidays-2027",
-   "retrieved_at": "2026-10-19T12:56:06.581Z",
-   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/holidays-2027（擷取 2026-10-19）",
+   "retrieved_at": "2026-10-26T06:17:04.662Z",
+   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/holidays-2027（擷取 2026-10-26）",
    "docs": "https://travel.penguindriver.com/llms.txt"
   }
  },
@@ -365,9 +365,9 @@
    "url": "https://www.dgpa.gov.tw/information?pid=12983&uid=2"
   },
   "sponsor": {
-   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
    "url": "https://ebook.penguindriver.com",
-   "code": "P101920",
+   "code": "P102614",
    "valid_hours": 24,
    "wallet": {
     "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -377,8 +377,8 @@
   },
   "_citation": {
    "source": "https://travel.penguindriver.com/api/long-weekends-2027",
-   "retrieved_at": "2026-10-19T12:56:07.126Z",
-   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/long-weekends-2027（擷取 2026-10-19）",
+   "retrieved_at": "2026-10-26T06:17:05.068Z",
+   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/long-weekends-2027（擷取 2026-10-26）",
    "docs": "https://travel.penguindriver.com/llms.txt"
   }
  }

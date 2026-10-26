@@ -8,7 +8,7 @@
    "rows": 42,
    "json": "datasets/twostroke-motorcycles.json",
    "csv": "datasets/twostroke-motorcycles.csv",
-   "updated": "2026-10-19T12:56:05.984Z"
+   "updated": "2026-10-26T06:17:04.013Z"
   },
   {
    "id": "ai-model-deprecations",
@@ -17,7 +17,7 @@
    "rows": 147,
    "json": "datasets/ai-model-deprecations.json",
    "csv": "datasets/ai-model-deprecations.csv",
-   "updated": "2026-10-19T12:56:06.455Z"
+   "updated": "2026-10-26T06:17:04.566Z"
   },
   {
    "id": "taiwan-holidays-2027",
@@ -26,7 +26,7 @@
    "rows": 24,
    "json": "datasets/taiwan-holidays-2027.json",
    "csv": "datasets/taiwan-holidays-2027.csv",
-   "updated": "2026-10-19T12:56:07.137Z"
+   "updated": "2026-10-26T06:17:05.080Z"
   },
   {
    "id": "ai-glossary-zh-tw",
@@ -35,7 +35,7 @@
    "rows": 45,
    "json": "datasets/ai-glossary-zh-tw.json",
    "csv": "datasets/ai-glossary-zh-tw.csv",
-   "updated": "2026-10-19T12:56:07.625Z"
+   "updated": "2026-10-26T06:17:05.552Z"
   }
  ]
 }

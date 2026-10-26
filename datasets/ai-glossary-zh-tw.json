@@ -3,7 +3,7 @@
   "source": "https://glossary.penguindriver.com",
   "license": "CC BY 4.0",
   "attribution": "資料來源：AI 與科技名詞白話解釋（繁體中文）（https://glossary.penguindriver.com）",
-  "updated": "2026-10-19T12:56:07.625Z"
+  "updated": "2026-10-26T06:17:05.552Z"
  },
  "categories": [
   {
@@ -484,9 +484,9 @@
  ],
  "checked": "2026-09-29",
  "sponsor": {
-  "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+  "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
   "url": "https://ebook.penguindriver.com",
-  "code": "P101920",
+  "code": "P102614",
   "valid_hours": 24,
   "wallet": {
    "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -496,9 +496,9 @@
  },
  "_citation": {
   "source": "https://glossary.penguindriver.com/api/terms",
-  "retrieved_at": "2026-10-19T12:56:07.266Z",
+  "retrieved_at": "2026-10-26T06:17:05.197Z",
   "data_date": "2026-09-29",
-  "cite_as": "AI 與科技名詞白話解釋，https://glossary.penguindriver.com/api/terms（擷取 2026-10-19）",
+  "cite_as": "AI 與科技名詞白話解釋，https://glossary.penguindriver.com/api/terms（擷取 2026-10-26）",
   "docs": "https://glossary.penguindriver.com/llms.txt"
  }
 }

@@ -3,7 +3,7 @@
   "source": "https://twostroke.penguindriver.com",
   "license": "CC BY 4.0",
   "attribution": "資料來源：經典二行程機車規格（https://twostroke.penguindriver.com）",
-  "updated": "2026-10-19T12:56:05.984Z"
+  "updated": "2026-10-26T06:17:04.013Z"
  },
  "count": 42,
  "models": [
@@ -115,16 +115,16 @@
     "url": "https://en.wikipedia.org/wiki/Honda_NSR250R",
     "revision": 1309026778,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -134,8 +134,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-nsr250r",
-    "retrieved_at": "2026-10-19T12:55:00.304Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-nsr250r（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:01.948Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-nsr250r（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -247,16 +247,16 @@
     "url": "https://en.wikipedia.org/wiki/Honda_NS400R",
     "revision": 1378816443,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -266,8 +266,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-ns400r",
-    "retrieved_at": "2026-10-19T12:55:01.873Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-ns400r（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:03.457Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-ns400r（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -283,16 +283,16 @@
     "url": "https://en.wikipedia.org/wiki/Honda_NSR150",
     "revision": 1321042342,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -302,8 +302,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-nsr150",
-    "retrieved_at": "2026-10-19T12:55:03.455Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-nsr150（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:04.927Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-nsr150（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -320,9 +320,9 @@
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -332,8 +332,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-ns250r",
-    "retrieved_at": "2026-10-19T12:55:05.019Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-ns250r（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:06.775Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-ns250r（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -425,16 +425,16 @@
     "url": "https://en.wikipedia.org/wiki/Honda_MVX250F",
     "revision": 1378429500,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -444,8 +444,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-mvx250f",
-    "retrieved_at": "2026-10-19T12:55:06.601Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-mvx250f（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:08.216Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-mvx250f（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -462,9 +462,9 @@
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -474,8 +474,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-ns125r",
-    "retrieved_at": "2026-10-19T12:55:08.152Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-ns125r（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:09.721Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-ns125r（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -597,16 +597,16 @@
     "url": "https://en.wikipedia.org/wiki/Honda_CR250R",
     "revision": 1378816508,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -616,8 +616,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-cr250r",
-    "retrieved_at": "2026-10-19T12:55:09.728Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-cr250r（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:11.181Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-cr250r（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -714,16 +714,16 @@
     "url": "https://en.wikipedia.org/wiki/Honda_Dio",
     "revision": 1379336436,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -733,8 +733,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/honda-dio",
-    "retrieved_at": "2026-10-19T12:55:11.289Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-dio（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:12.628Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/honda-dio（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -806,16 +806,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RD350LC",
     "revision": 1356099266,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -825,8 +825,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rd350lc",
-    "retrieved_at": "2026-10-19T12:55:12.836Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd350lc（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:14.124Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd350lc（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -898,16 +898,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RD350LC",
     "revision": 1356099266,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -917,8 +917,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rd250lc",
-    "retrieved_at": "2026-10-19T12:55:14.403Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd250lc（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:15.632Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd250lc（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -980,16 +980,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RD500LC",
     "revision": 1378816491,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -999,8 +999,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rd500lc",
-    "retrieved_at": "2026-10-19T12:55:15.960Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd500lc（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:17.089Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd500lc（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1097,16 +1097,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_TZR250",
     "revision": 1378408149,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1116,8 +1116,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-tzr250",
-    "retrieved_at": "2026-10-19T12:55:17.793Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-tzr250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:18.541Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-tzr250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1149,16 +1149,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_TZR125",
     "revision": 1339029805,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1168,8 +1168,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-tzr125",
-    "retrieved_at": "2026-10-19T12:55:19.344Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-tzr125（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:19.986Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-tzr125（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1306,16 +1306,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RD350",
     "revision": 1356097361,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1325,8 +1325,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rd350",
-    "retrieved_at": "2026-10-19T12:55:20.894Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd350（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:21.450Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd350（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1468,16 +1468,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RD400",
     "revision": 1356097131,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1487,8 +1487,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rd400",
-    "retrieved_at": "2026-10-19T12:55:22.438Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd400（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:22.894Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rd400（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1605,16 +1605,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RX_100",
     "revision": 1370458003,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1624,8 +1624,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rx100",
-    "retrieved_at": "2026-10-19T12:55:23.997Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rx100（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:24.336Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rx100（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1727,16 +1727,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_RX-King_135",
     "revision": 1330477368,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1746,8 +1746,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-rx-king",
-    "retrieved_at": "2026-10-19T12:55:25.550Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rx-king（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:25.825Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-rx-king（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1864,16 +1864,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_DT",
     "revision": 1366711682,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1883,8 +1883,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-dt1",
-    "retrieved_at": "2026-10-19T12:55:27.094Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-dt1（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:27.290Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-dt1（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -1976,16 +1976,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_DT125",
     "revision": 1378816527,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -1995,8 +1995,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-dt125",
-    "retrieved_at": "2026-10-19T12:55:28.643Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-dt125（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:28.804Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-dt125（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2098,16 +2098,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_YZ250",
     "revision": 1378816463,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2117,8 +2117,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-yz250",
-    "retrieved_at": "2026-10-19T12:55:30.194Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-yz250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:30.247Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-yz250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2170,16 +2170,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_TZ750",
     "revision": 1350210261,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2189,8 +2189,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-tz750",
-    "retrieved_at": "2026-10-19T12:55:31.905Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-tz750（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:31.697Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-tz750（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2237,16 +2237,16 @@
     "url": "https://en.wikipedia.org/wiki/Yamaha_Jog",
     "revision": 1305527828,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2256,8 +2256,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/yamaha-jog",
-    "retrieved_at": "2026-10-19T12:55:33.488Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-jog（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:33.148Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/yamaha-jog（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2334,16 +2334,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_RGV250",
     "revision": 1354119497,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2353,8 +2353,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-rgv250",
-    "retrieved_at": "2026-10-19T12:55:35.036Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rgv250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:34.666Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rgv250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2461,16 +2461,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_RG500",
     "revision": 1370667574,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2480,8 +2480,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-rg500-gamma",
-    "retrieved_at": "2026-10-19T12:55:36.590Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rg500-gamma（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:36.109Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rg500-gamma（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2608,16 +2608,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_RG250_Gamma",
     "revision": 1224331621,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2627,8 +2627,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-rg250-gamma",
-    "retrieved_at": "2026-10-19T12:55:38.248Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rg250-gamma（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:37.556Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rg250-gamma（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2725,16 +2725,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_GT750",
     "revision": 1347833332,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2744,8 +2744,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-gt750",
-    "retrieved_at": "2026-10-19T12:55:39.806Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-gt750（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:39.005Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-gt750（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2761,16 +2761,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_GT_series",
     "revision": 1285261290,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2780,8 +2780,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-gt380",
-    "retrieved_at": "2026-10-19T12:55:41.348Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-gt380（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:40.447Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-gt380（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2888,16 +2888,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_GT550",
     "revision": 1374632244,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -2907,8 +2907,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-gt550",
-    "retrieved_at": "2026-10-19T12:55:42.904Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-gt550（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:41.891Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-gt550（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -2990,16 +2990,16 @@
     "url": "https://en.wikipedia.org/wiki/Suzuki_T500",
     "revision": 1264252634,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3009,8 +3009,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-t500",
-    "retrieved_at": "2026-10-19T12:55:44.449Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-t500（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:43.334Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-t500（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3027,9 +3027,9 @@
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3039,8 +3039,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/suzuki-rm250",
-    "retrieved_at": "2026-10-19T12:55:45.994Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rm250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:44.779Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/suzuki-rm250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3057,9 +3057,9 @@
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3069,8 +3069,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-kr1",
-    "retrieved_at": "2026-10-19T12:55:47.554Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-kr1（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:46.273Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-kr1（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3122,16 +3122,16 @@
     "url": "https://en.wikipedia.org/wiki/Kawasaki_KR250_and_KR350",
     "revision": 1319298442,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3141,8 +3141,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-kr250",
-    "retrieved_at": "2026-10-19T12:55:49.116Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-kr250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:47.719Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-kr250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3214,16 +3214,16 @@
     "url": "https://en.wikipedia.org/wiki/Kawasaki_H1_Mach_III",
     "revision": 1359622672,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3233,8 +3233,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-h1",
-    "retrieved_at": "2026-10-19T12:55:50.670Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-h1（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:49.230Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-h1（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3351,16 +3351,16 @@
     "url": "https://en.wikipedia.org/wiki/Kawasaki_H2_Mach_IV",
     "revision": 1359622978,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3370,8 +3370,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-h2",
-    "retrieved_at": "2026-10-19T12:55:52.237Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-h2（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:50.682Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-h2（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3488,16 +3488,16 @@
     "url": "https://en.wikipedia.org/wiki/Kawasaki_S1_Mach_I",
     "revision": 1314140993,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3507,8 +3507,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-s1",
-    "retrieved_at": "2026-10-19T12:55:53.791Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-s1（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:52.179Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-s1（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3525,9 +3525,9 @@
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3537,8 +3537,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-kh250",
-    "retrieved_at": "2026-10-19T12:55:55.540Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-kh250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:53.625Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-kh250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3555,9 +3555,9 @@
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3567,8 +3567,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/kawasaki-ninja-150rr",
-    "retrieved_at": "2026-10-19T12:55:57.094Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-ninja-150rr（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:55.578Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/kawasaki-ninja-150rr（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3660,16 +3660,16 @@
     "url": "https://en.wikipedia.org/wiki/Aprilia_RS250",
     "revision": 1375365665,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3679,8 +3679,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/aprilia-rs250",
-    "retrieved_at": "2026-10-19T12:55:58.644Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/aprilia-rs250（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:57.026Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/aprilia-rs250（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3807,16 +3807,16 @@
     "url": "https://en.wikipedia.org/wiki/Aprilia_RS125",
     "revision": 1354870721,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3826,8 +3826,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/aprilia-rs125",
-    "retrieved_at": "2026-10-19T12:56:00.201Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/aprilia-rs125（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:58.476Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/aprilia-rs125（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3939,16 +3939,16 @@
     "url": "https://en.wikipedia.org/wiki/Cagiva_Mito",
     "revision": 1345003860,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3958,8 +3958,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/cagiva-mito",
-    "retrieved_at": "2026-10-19T12:56:01.759Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/cagiva-mito（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:16:59.928Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/cagiva-mito（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -3973,18 +3973,18 @@
    "spec_source": {
     "title": "Vespa PX",
     "url": "https://en.wikipedia.org/wiki/Vespa_PX",
-    "revision": 1306008242,
+    "revision": 1381413781,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -3994,8 +3994,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/vespa-px",
-    "retrieved_at": "2026-10-19T12:56:03.311Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/vespa-px（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:17:01.430Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/vespa-px（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   },
@@ -4011,16 +4011,16 @@
     "url": "https://en.wikipedia.org/wiki/Lambretta",
     "revision": 1369808795,
     "license": "規格資料取自英文維基百科，依 CC BY-SA 4.0 授權使用",
-    "fetched_at": "2026-10-18T03:00:15.842Z"
+    "fetched_at": "2026-10-25T03:30:09.196Z"
    },
    "parts": [],
    "maintenance": [],
    "sales": [],
    "spec_notes": [],
    "sponsor": {
-    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P101920）",
+    "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P102614）",
     "url": "https://ebook.penguindriver.com",
-    "code": "P101920",
+    "code": "P102614",
     "valid_hours": 24,
     "wallet": {
      "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
@@ -4030,8 +4030,8 @@
    },
    "_citation": {
     "source": "https://twostroke.penguindriver.com/api/model/lambretta",
-    "retrieved_at": "2026-10-19T12:56:04.872Z",
-    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/lambretta（擷取 2026-10-19）",
+    "retrieved_at": "2026-10-26T06:17:02.903Z",
+    "cite_as": "二行程經典車資料庫，https://twostroke.penguindriver.com/api/model/lambretta（擷取 2026-10-26）",
     "docs": "https://twostroke.penguindriver.com/llms.txt"
    }
   }
