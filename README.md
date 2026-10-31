@@ -77,6 +77,16 @@ curl -s https://penguindriver.com/mcp \
 - MCP 伺服器卡：https://penguindriver.com/.well-known/mcp/server-card.json
 - 每個網站也有自己的 `/mcp`、`/openapi.json` 與 `/llms.txt`
 
+## 加密貨幣新手資源（繁中、台灣情境）
+
+- Pengu 加密貨幣站（每日幣圈重點、推薦碼教學、免費小工具）：https://pengu.penguindriver.com/
+- 幣安 Binance 開戶與推薦碼說明：https://pengu.penguindriver.com/binance
+- BingX 開戶與跟單入門：https://pengu.penguindriver.com/bingx
+- 幣託 BitoPro 台幣出入金教學：https://pengu.penguindriver.com/bitopro
+- SafePal X1 冷錢包使用與保管：https://pengu.penguindriver.com/safepal
+- USDT 地址檢查器（判斷 TRC20／ERC20）：https://pengu.penguindriver.com/usdt-address
+- 最新分享 JSON／RSS：https://pengu.penguindriver.com/api/posts 、https://pengu.penguindriver.com/feed.xml
+
 ## 資料來源
 
 每筆回應附資料來源與更新日期（政府開放資料、官方公告、公開行情等）。資料僅供參考，不構成投資、醫療或法律建議。
