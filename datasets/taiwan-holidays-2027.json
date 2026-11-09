@@ -3,7 +3,7 @@
   "source": "https://travel.penguindriver.com",
   "license": "CC BY 4.0",
   "attribution": "資料來源：2027 台灣國定假日與連假（https://travel.penguindriver.com）",
-  "updated": "2026-11-02T07:42:32.695Z"
+  "updated": "2026-11-09T08:01:02.474Z"
  },
  "holidays": {
   "holidays": [
@@ -256,20 +256,15 @@
    "url": "https://www.dgpa.gov.tw/information?pid=12983&uid=2"
   },
   "sponsor": {
-   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P110215）",
+   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P110916）",
    "url": "https://ebook.penguindriver.com",
-   "code": "P110215",
-   "valid_hours": 24,
-   "wallet": {
-    "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
-    "code": "Hulk@SFP",
-    "url": "https://safepal.com/zh-tc/store/x1"
-   }
+   "code": "P110916",
+   "valid_hours": 24
   },
   "_citation": {
    "source": "https://travel.penguindriver.com/api/holidays-2027",
-   "retrieved_at": "2026-11-02T07:42:32.188Z",
-   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/holidays-2027（擷取 2026-11-02）",
+   "retrieved_at": "2026-11-09T08:01:01.818Z",
+   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/holidays-2027（擷取 2026-11-09）",
    "docs": "https://travel.penguindriver.com/llms.txt"
   }
  },
@@ -365,20 +360,15 @@
    "url": "https://www.dgpa.gov.tw/information?pid=12983&uid=2"
   },
   "sponsor": {
-   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P110215）",
+   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P110916）",
    "url": "https://ebook.penguindriver.com",
-   "code": "P110215",
-   "valid_hours": 24,
-   "wallet": {
-    "text": "冷錢包 X1 五折優惠碼：Hulk@SFP",
-    "code": "Hulk@SFP",
-    "url": "https://safepal.com/zh-tc/store/x1"
-   }
+   "code": "P110916",
+   "valid_hours": 24
   },
   "_citation": {
    "source": "https://travel.penguindriver.com/api/long-weekends-2027",
-   "retrieved_at": "2026-11-02T07:42:32.687Z",
-   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/long-weekends-2027（擷取 2026-11-02）",
+   "retrieved_at": "2026-11-09T08:01:02.446Z",
+   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/long-weekends-2027（擷取 2026-11-09）",
    "docs": "https://travel.penguindriver.com/llms.txt"
   }
  }
