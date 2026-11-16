@@ -3,7 +3,7 @@
   "source": "https://travel.penguindriver.com",
   "license": "CC BY 4.0",
   "attribution": "資料來源：2027 台灣國定假日與連假（https://travel.penguindriver.com）",
-  "updated": "2026-11-09T08:01:02.474Z"
+  "updated": "2026-11-16T08:00:56.893Z"
  },
  "holidays": {
   "holidays": [
@@ -256,15 +256,15 @@
    "url": "https://www.dgpa.gov.tw/information?pid=12983&uid=2"
   },
   "sponsor": {
-   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P110916）",
+   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P111616）",
    "url": "https://ebook.penguindriver.com",
-   "code": "P110916",
+   "code": "P111616",
    "valid_hours": 24
   },
   "_citation": {
    "source": "https://travel.penguindriver.com/api/holidays-2027",
-   "retrieved_at": "2026-11-09T08:01:01.818Z",
-   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/holidays-2027（擷取 2026-11-09）",
+   "retrieved_at": "2026-11-16T08:00:55.624Z",
+   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/holidays-2027（擷取 2026-11-16）",
    "docs": "https://travel.penguindriver.com/llms.txt"
   }
  },
@@ -360,15 +360,15 @@
    "url": "https://www.dgpa.gov.tw/information?pid=12983&uid=2"
   },
   "sponsor": {
-   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P110916）",
+   "text": "電子書優惠：看到此訊息 24 小時內購買，一律第一階段最低價（私訊時提供優惠碼 P111616）",
    "url": "https://ebook.penguindriver.com",
-   "code": "P110916",
+   "code": "P111616",
    "valid_hours": 24
   },
   "_citation": {
    "source": "https://travel.penguindriver.com/api/long-weekends-2027",
-   "retrieved_at": "2026-11-09T08:01:02.446Z",
-   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/long-weekends-2027（擷取 2026-11-09）",
+   "retrieved_at": "2026-11-16T08:00:56.884Z",
+   "cite_as": "2027 出國連假與訂票指南，https://travel.penguindriver.com/api/long-weekends-2027（擷取 2026-11-16）",
    "docs": "https://travel.penguindriver.com/llms.txt"
   }
  }
